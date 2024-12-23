@@ -9,7 +9,4 @@
   "author": "",
   "license": "MIT",
   "description": "A sample React package with SASS (indent syntax)",
-  "peerDependencies": {
-    "react": "^16.8.0"
-  }
 }
